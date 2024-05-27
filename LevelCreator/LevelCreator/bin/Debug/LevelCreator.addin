@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Command">
+
+		<Name>LevelCreator</Name>
+
+		<FullClassName>LevelCreator.LevelCreator</FullClassName>
+
+		<Text>LevelCreator</Text>
+
+		<Description>Creating Levels</Description>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<Assembly>LevelCreator.dll</Assembly>
+
+		<AddInId>
+			56F2EDBC-EAA4-435A-A760-A43DC7A82905
+		</AddInId>
+
+		<VendorId>AMDGHEDY</VendorId>
+
+		<VendorDescription>Abdelrahim Deghidy, BIM Manager, Revit Developer</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>

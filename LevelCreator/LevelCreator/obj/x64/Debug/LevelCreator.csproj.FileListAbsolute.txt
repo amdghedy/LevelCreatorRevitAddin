@@ -1,0 +1,9 @@
+C:\Users\adghedy\OneDrive\Desktop\LevelCreator\LevelCreator\bin\x64\Debug\LevelCreator.addin
+C:\Users\adghedy\OneDrive\Desktop\LevelCreator\LevelCreator\bin\x64\Debug\LevelCreator.dll
+C:\Users\adghedy\OneDrive\Desktop\LevelCreator\LevelCreator\bin\x64\Debug\LevelCreator.pdb
+C:\Users\adghedy\OneDrive\Desktop\LevelCreator\LevelCreator\obj\x64\Debug\LevelCreator.csproj.AssemblyReference.cache
+C:\Users\adghedy\OneDrive\Desktop\LevelCreator\LevelCreator\obj\x64\Debug\LevelCreator.LevelForm.resources
+C:\Users\adghedy\OneDrive\Desktop\LevelCreator\LevelCreator\obj\x64\Debug\LevelCreator.csproj.GenerateResource.cache
+C:\Users\adghedy\OneDrive\Desktop\LevelCreator\LevelCreator\obj\x64\Debug\LevelCreator.csproj.CoreCompileInputs.cache
+C:\Users\adghedy\OneDrive\Desktop\LevelCreator\LevelCreator\obj\x64\Debug\LevelCreator.dll
+C:\Users\adghedy\OneDrive\Desktop\LevelCreator\LevelCreator\obj\x64\Debug\LevelCreator.pdb
